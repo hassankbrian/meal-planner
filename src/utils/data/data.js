@@ -27,8 +27,8 @@ const surveyData = {
   },
 }
 const API = {
-  ID : "YOUR_EDAMAM_ID",
-  KEY : "YOUR_EDAMAM_API_KEY",
+  ID : "37ba9d43",
+  KEY : "4f37f55604803103771ae3033f83456e",
   URL : "https://api.edamam.com/search?",
 }
 export {
